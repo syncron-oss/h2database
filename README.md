@@ -1,4 +1,4 @@
-# Welcome to H2, the Java SQL database. [![Build Status](https://travis-ci.org/h2database/h2database.svg?branch=master)](https://travis-ci.org/h2database/h2database)
+# Welcome to H2, the Java SQL database. [![Build Status](https://travis-ci.org/syncron/h2database.svg?branch=h2-1.4.196-syncron.1)](https://travis-ci.org/h2database/h2database)
 
 ## The main features of H2 are:
 
